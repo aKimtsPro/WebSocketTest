@@ -1,0 +1,3 @@
+[submodule "WebSocketTestFront"]
+	path = WebSocketTestFront
+	url = https://github.com/aKimtsPro/WebSocketTestFront.git
